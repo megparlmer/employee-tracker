@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "start"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/megparlmer/employee-tracker/issues"
   },
-  "homepage": "https://github.com/megparlmer/employee-tracker#readme"
+  "homepage": "https://github.com/megparlmer/employee-tracker#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
 }
